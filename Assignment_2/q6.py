@@ -1,0 +1,7 @@
+basic = int(input("Enter the basic value:"))
+da = basic * (10/100)
+ta = basic * (12/100)
+hra = basic * (15/100)
+print(f"calculate da is:{da}")
+print(f"calculate ta is:{ta}")
+print(f"calculate hra is:{hra}")
